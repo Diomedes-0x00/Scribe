@@ -1,0 +1,10 @@
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Scribe.MsSqlProvider.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Scribe.MsSqlProvider.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Dapper.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Scribe.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Scribe.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Dapper.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\bin\Debug\Dapper.xml
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\obj\Debug\Scribe.MsSqlProvider.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\obj\Debug\Scribe.MsSqlProvider.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.MsSqlProvider\obj\Debug\Scribe.MsSqlProvider.pdb

@@ -1,0 +1,12 @@
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.UnitTests.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.UnitTests.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Dapper.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.MsSqlProvider.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.MsSqlProvider.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Scribe.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Dapper.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\bin\Debug\Dapper.xml
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\obj\Debug\Scribe.UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\obj\Debug\Scribe.UnitTests.dll
+c:\Users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe.UnitTests\obj\Debug\Scribe.UnitTests.pdb

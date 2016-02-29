@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe\bin\Debug\Scribe.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe\bin\Debug\Scribe.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe\obj\Debug\Scribe.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Scribe\Scribe\obj\Debug\Scribe.pdb
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Scribe\Scribe\obj\Debug\Scribe.csprojResolveAssemblyReference.cache
